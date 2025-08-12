@@ -23,7 +23,7 @@
 
 | Zapper Mode ON |
 |-----------------|
-|![On Screenshot](screenshots/on.png) |
+|![On Screenshot](on.png) |
 
 ---
 
